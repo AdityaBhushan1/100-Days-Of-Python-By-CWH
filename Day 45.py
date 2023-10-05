@@ -1,0 +1,3 @@
+import custom_module_day_45
+
+custom_module_day_45.welcome()
